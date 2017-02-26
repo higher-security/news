@@ -1,0 +1,1 @@
+ffplay -i $(youtube-dl -g -f 94 "https://www.youtube.com/watch?v=Nxid1JTdfrk" )
